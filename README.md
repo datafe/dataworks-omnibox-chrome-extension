@@ -10,7 +10,9 @@
 
 ## Usage Documents
 
-After chrome extension is installed, you can type 'dw + space' in chrome search input box and query region name and business module name to invoke link suggestions.
+After chrome extension is installed, you can type <strong>'dw + space'</strong> in chrome search input box and query region name and business module name to invoke link suggestions.
+
+安装完插件后，于浏览器输入框敲入<strong>dw并加上空白键</strong>即可呼起 DataWorks Omnibox，并输入地域名(如shanghai)或业务组件名(如数据开发)即会跳出链接。
 
 ## Demo
 
@@ -18,9 +20,9 @@ After chrome extension is installed, you can type 'dw + space' in chrome search 
 
 操作影片 [video](https://www.youtube.com/watch?v=MVwVfIptEuw)
 
-![image](https://img.alicdn.com/imgextra/i1/O1CN01ojJG2c1ldgfGEqmPM_!!6000000004842-0-tps-1280-800.jpg)
+![image](https://img.alicdn.com/imgextra/i3/O1CN01WneUfa27arloGcFdl_!!6000000007814-0-tps-1546-490.jpg)
 
-![image](https://img.alicdn.com/imgextra/i3/O1CN01ltxA7L1RNOFwFHfF8_!!6000000002099-0-tps-1280-800.jpg)
+![image](https://img.alicdn.com/imgextra/i1/O1CN01TKoy6m1i7Dk0nM1ko_!!6000000004365-0-tps-1578-500.jpg)
 
 
 ## Table of Contents
