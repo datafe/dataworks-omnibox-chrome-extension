@@ -1,0 +1,110 @@
+{
+  "appName": {
+    "message": "DataWorks Omnibox"
+  },
+  "appDescription": {
+    "message": "A extraordinary omnibox chrome extension, let you can launch apps of Alibaba Cloud DataWorks quickly."
+  },
+  "console": {
+    "message": "Console"
+  },
+  "dataStudio": {
+    "message": "Data Studio"
+  },
+  "dataMap": {
+    "message": "Data Map"
+  },
+  "dataService": {
+    "message": "Data Service"
+  },
+  "dataAnalytics": {
+    "message": "Data Analytics"
+  },
+  "inner": {
+    "message": "Inner"
+  },
+  "innerPre": {
+    "message": "Inner Pre"
+  },
+  "innerLocal": {
+    "message": "Inner Local"
+  },
+  "shanghai": {
+    "message": "Shanghai"
+  },
+  "shanghaiPre": {
+    "message": "Shanghai Pre"
+  },
+  "shanghaiLocal": {
+    "message": "Shanghai Local"
+  },
+  "hangzhou": {
+    "message": "Hangzhou"
+  },
+  "hangzhouPre": {
+    "message": "Hangzhou Pre"
+  },
+  "hangzhouLocal": {
+    "message": "Hangzhou Local"
+  },
+  "shenzhen": {
+    "message": "Shenzhen"
+  },
+  "beijing": {
+    "message": "Beijing"
+  },
+  "beijingPre": {
+    "message": "Beijing Pre"
+  },
+  "beijingLocal": {
+    "message": "Beijing Local"
+  },
+  "chengdu": {
+    "message": "Chengdu"
+  },
+  "zhangjiakou": {
+    "message": "Zhangjiakou"
+  },
+  "hongkong": {
+    "message": "Hong Kong"
+  },
+  "singapore": {
+    "message": "Singapore"
+  },
+  "sydney": {
+    "message": "Sydney"
+  },
+  "kualaLumpur": {
+    "message": "Kuala Lumpur"
+  },
+  "jakarta": {
+    "message": "Jakarta"
+  },
+  "mumbai": {
+    "message": "Mumbai"
+  },
+  "tokyo": {
+    "message": "Tokyo"
+  },
+  "siliconValley": {
+    "message": "Silicon Valley"
+  },
+  "virginia": {
+    "message": "Virginia"
+  },
+  "frankfurt": {
+    "message": "Frankfurt"
+  },
+  "london": {
+    "message": "London"
+  },
+  "shanghaiFinance": {
+    "message": "Shanghai Finance"
+  },
+  "shenzhenFinance": {
+    "message": "Shenzhen Finance"
+  },
+  "beijingGov": {
+    "message": "Beijing Gov"
+  }
+}

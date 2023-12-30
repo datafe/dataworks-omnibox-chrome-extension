@@ -1,0 +1,110 @@
+{
+  "appName": {
+    "message": "DataWorks Omnibox"
+  },
+  "appDescription": {
+    "message": "一款让你可以很快地呼叫起阿里云DataWorks应用的插件。"
+  },
+  "console": {
+    "message": "管控台"
+  },
+  "dataStudio": {
+    "message": "数据开发"
+  },
+  "dataMap": {
+    "message": "数据地图"
+  },
+  "dataService": {
+    "message": "数据服务"
+  },
+  "dataAnalytics": {
+    "message": "数据分析"
+  },
+  "inner": {
+    "message": "弹内"
+  },
+  "innerPre": {
+    "message": "弹内预发"
+  },
+  "innerLocal": {
+    "message": "弹内本地"
+  },
+  "shanghai": {
+    "message": "上海"
+  },
+  "shanghaiPre": {
+    "message": "上海预发"
+  },
+  "shanghaiLocal": {
+    "message": "上海本地"
+  },
+  "hangzhou": {
+    "message": "杭州"
+  },
+  "hangzhouPre": {
+    "message": "杭州预发"
+  },
+  "hangzhouLocal": {
+    "message": "杭州本地"
+  },
+  "shenzhen": {
+    "message": "深圳"
+  },
+  "beijing": {
+    "message": "北京"
+  },
+  "beijingPre": {
+    "message": "北京预发"
+  },
+  "beijingLocal": {
+    "message": "北京本地"
+  },
+  "chengdu": {
+    "message": "成都"
+  },
+  "zhangjiakou": {
+    "message": "张家口"
+  },
+  "hongkong": {
+    "message": "香港"
+  },
+  "singapore": {
+    "message": "新加坡"
+  },
+  "sydney": {
+    "message": "悉尼"
+  },
+  "kualaLumpur": {
+    "message": "吉隆坡"
+  },
+  "jakarta": {
+    "message": "雅加达"
+  },
+  "mumbai": {
+    "message": "孟买"
+  },
+  "tokyo": {
+    "message": "东京"
+  },
+  "siliconValley": {
+    "message": "硅谷"
+  },
+  "virginia": {
+    "message": "弗吉尼亚"
+  },
+  "frankfurt": {
+    "message": "法兰克福"
+  },
+  "london": {
+    "message": "伦敦"
+  },
+  "shanghaiFinance": {
+    "message": "上海金融云"
+  },
+  "shenzhenFinance": {
+    "message": "深圳金融云"
+  },
+  "beijingGov": {
+    "message": "北京政务云"
+  }
+}
