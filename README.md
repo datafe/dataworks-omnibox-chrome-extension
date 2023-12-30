@@ -18,7 +18,9 @@ After chrome extension is installed, you can type <strong>'dw + space'</strong> 
 
 应用安装 Extension Installation preparing
 
-操作影片 [video](https://www.youtube.com/watch?v=MVwVfIptEuw)
+操作影片
+- [YouTube](https://www.youtube.com/watch?v=MVwVfIptEuw)
+- [b站](https://www.bilibili.com/video/BV12w411G7sB/)
 
 ![image](https://img.alicdn.com/imgextra/i3/O1CN01WneUfa27arloGcFdl_!!6000000007814-0-tps-1546-490.jpg)
 
