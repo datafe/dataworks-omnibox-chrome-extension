@@ -1,0 +1,44 @@
+.app.options {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: calc(100% - 20px);
+  padding: 10px;
+
+  .app-logo {
+    height: 40px;
+    pointer-events: none;
+    flex-grow: 0;
+  }
+
+  .app-header {
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 600;
+
+    .header-text {
+      flex-grow: 1;
+      text-align: left;
+      margin-left: 8px;
+    }
+
+    .option-icon {
+      cursor: pointer;
+      margin-left: 8px;
+      font-size: 16px;
+      flex-grow: 0;
+    }
+  }
+
+  .content {
+    text-align: left;
+    width: 100%;
+  }
+
+}
