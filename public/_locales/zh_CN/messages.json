@@ -20,20 +20,29 @@
   "dataAnalytics": {
     "message": "数据分析"
   },
+  "dgc": {
+    "message": "数据治理"
+  },
+  "tag": {
+    "message": "标签"
+  },
   "inner": {
     "message": "弹内"
   },
   "innerPre": {
     "message": "弹内预发"
   },
-  "innerLocal": {
-    "message": "弹内本地"
+  "innerPreLocal": {
+    "message": "弹内预发本地"
   },
   "shanghai": {
     "message": "上海"
   },
   "shanghaiPre": {
     "message": "上海预发"
+  },
+  "shanghaiPreLocal": {
+    "message": "上海预发本地"
   },
   "shanghaiLocal": {
     "message": "上海本地"
@@ -44,8 +53,8 @@
   "hangzhouPre": {
     "message": "杭州预发"
   },
-  "hangzhouLocal": {
-    "message": "杭州本地"
+  "hangzhouPreLocal": {
+    "message": "杭州预发本地"
   },
   "shenzhen": {
     "message": "深圳"
@@ -56,8 +65,8 @@
   "beijingPre": {
     "message": "北京预发"
   },
-  "beijingLocal": {
-    "message": "北京本地"
+  "beijingPreLocal": {
+    "message": "北京预发本地"
   },
   "chengdu": {
     "message": "成都"

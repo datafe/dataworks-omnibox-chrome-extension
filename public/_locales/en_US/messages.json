@@ -20,20 +20,29 @@
   "dataAnalytics": {
     "message": "Data Analytics"
   },
+  "dgc": {
+    "message": "DGC"
+  },
+  "tag": {
+    "message": "Tag"
+  },
   "inner": {
     "message": "Inner"
   },
   "innerPre": {
     "message": "Inner Pre"
   },
-  "innerLocal": {
-    "message": "Inner Local"
+  "innerPreLocal": {
+    "message": "Inner Pre Local"
   },
   "shanghai": {
     "message": "Shanghai"
   },
   "shanghaiPre": {
     "message": "Shanghai Pre"
+  },
+  "shanghaiPreLocal": {
+    "message": "Shanghai Pre Local"
   },
   "shanghaiLocal": {
     "message": "Shanghai Local"
@@ -45,7 +54,7 @@
     "message": "Hangzhou Pre"
   },
   "hangzhouLocal": {
-    "message": "Hangzhou Local"
+    "message": "Hangzhou Pre Local"
   },
   "shenzhen": {
     "message": "Shenzhen"
@@ -57,7 +66,7 @@
     "message": "Beijing Pre"
   },
   "beijingLocal": {
-    "message": "Beijing Local"
+    "message": "Beijing Pre Local"
   },
   "chengdu": {
     "message": "Chengdu"
