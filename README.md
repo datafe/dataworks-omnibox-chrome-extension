@@ -16,7 +16,7 @@ After chrome extension is installed, you can type <strong>'dw + space'</strong> 
 
 ## Demo
 
-应用安装 Extension Installation preparing
+应用安装 Extension Installation [link](https://chromewebstore.google.com/detail/dataworks-omnibox/mjngpogaeklgffofekjdmenbjjoiioim?hl=en)
 
 操作影片
 - [YouTube](https://www.youtube.com/watch?v=MVwVfIptEuw)
