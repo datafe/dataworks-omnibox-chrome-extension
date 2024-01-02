@@ -23,6 +23,9 @@
   "dgc": {
     "message": "DGC"
   },
+  "di": {
+    "message": "Data Integration"
+  },
   "tag": {
     "message": "Tag"
   },
@@ -73,6 +76,9 @@
   },
   "zhangjiakou": {
     "message": "Zhangjiakou"
+  },
+  "wulanchabu": {
+    "message": "Wulanchabu"
   },
   "hongkong": {
     "message": "Hong Kong"

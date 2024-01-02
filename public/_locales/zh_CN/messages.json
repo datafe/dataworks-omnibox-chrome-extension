@@ -23,6 +23,9 @@
   "dgc": {
     "message": "数据治理"
   },
+  "di": {
+    "message": "数据集成"
+  },
   "tag": {
     "message": "标签"
   },
@@ -73,6 +76,9 @@
   },
   "zhangjiakou": {
     "message": "张家口"
+  },
+  "wulanchabu": {
+    "message": "乌兰察布"
   },
   "hongkong": {
     "message": "香港"
