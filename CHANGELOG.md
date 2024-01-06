@@ -9,6 +9,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 none
 
 ---------------------------------------------------------------------
+## V1.0.5
+### Added
+1. add more links
 
 ## V1.0.4
 ### Added
