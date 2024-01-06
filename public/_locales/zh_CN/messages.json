@@ -1,12 +1,42 @@
 {
   "appName": {
-    "message": "DataWorks百宝箱"
+    "message": "DataWorks 百宝箱"
   },
   "appDescription": {
-    "message": "一款让你可以很快地呼叫起阿里云DataWorks应用的插件。"
+    "message": "一款让你可以很快地呼叫起阿里云 DataWorks 应用的插件。"
+  },
+  "global": {
+    "message": "全球"
+  },
+  "consolePre": {
+    "message": "预发"
   },
   "console": {
     "message": "管控台"
+  },
+  "hologresConsole": {
+    "message": "Hologres 管控台"
+  },
+  "mcConsole": {
+    "message": "MaxCompute 管控台"
+  },
+  "paiConsole": {
+    "message": "PAI 管控台"
+  },
+  "emrConsole": {
+    "message": "EMR 管控台"
+  },
+  "flinkConsole": {
+    "message": "Flink 管控台"
+  },
+  "holoweb": {
+    "message": "HoloWeb"
+  },
+  "newDataStudio": {
+    "message": "新版数据开发"
+  },
+  "newDataStudioPlugins": {
+    "message": "新版数据开发插件"
   },
   "dataStudio": {
     "message": "数据开发"
@@ -22,6 +52,9 @@
   },
   "dgc": {
     "message": "数据治理"
+  },
+  "dqc": {
+    "message": "数据质量"
   },
   "di": {
     "message": "数据集成"
@@ -113,13 +146,160 @@
   "london": {
     "message": "伦敦"
   },
+  "dubai": {
+    "message": "迪拜"
+  },
   "shanghaiFinance": {
     "message": "上海金融云"
   },
   "shenzhenFinance": {
     "message": "深圳金融云"
   },
+  "beijingFinance": {
+    "message": "北京金融云"
+  },
   "beijingGov": {
     "message": "北京政务云"
+  },
+  "onebox": {
+    "message": "Onebox"
+  },
+  "oneboxDataWorksPrivate": {
+    "message": "Onebox DataWorks 专有云部署"
+  },
+  "oneboxProjects": {
+    "message": "项目列表"
+  },
+  "dataWorks": {
+    "message": "DataWorks"
+  },
+  "dataWorksSetting": {
+    "message": "DataWorks 配置中心"
+  },
+  "dataset": {
+    "message": "数据集"
+  },
+  "dataWorksPublicDatasets": {
+    "message": "DataWorks 公共数据集"
+  },
+  "common": {
+    "message": "通用"
+  },
+  "commonLink": {
+    "message": "常用链接"
+  },
+  "datasetLink": {
+    "message": "数据集链接"
+  },
+  "openApiLink": {
+    "message": "开放接口链接"
+  },
+  "oneboxPrivateEnvLink": {
+    "message": "Onebox 专有云部署"
+  },
+  "dcdLink": {
+    "message": "DCD 链接"
+  },
+  "aone": {
+    "message": "Aone"
+  },
+  "aoneHome": {
+    "message": "Home"
+  },
+  "mds": {
+    "message": "美杜莎"
+  },
+  "mdsHome": {
+    "message": "Home"
+  },
+  "df": {
+    "message": "数据安全中心"
+  },
+  "aem": {
+    "message": "AEM"
+  },
+  "aemHome": {
+    "message": "Home"
+  },
+  "okr": {
+    "message": "OKR"
+  },
+  "mock": {
+    "message": "Mock"
+  },
+  "f2etest": {
+    "message": "F2E 测试"
+  },
+  "dcd": {
+    "message": "DCD"
+  },
+  "dcdHome": {
+    "message": "Home"
+  },
+  "uiCommand": {
+    "message": "统一 URI"
+  },
+  "uiIcon": {
+    "message": "前端图标"
+  },
+  "uiPalette": {
+    "message": "前端色板"
+  },
+  "uiCodeInventory": {
+    "message": "前端代码库"
+  },
+  "openApi": {
+    "message": "Open API"
+  },
+  "tps": {
+    "message": "小文件发布平台"
+  },
+  "commonHeader": {
+    "message": "公共头"
+  },
+  "dataTracker": {
+    "message": "Data Tracker"
+  },
+  "uone": {
+    "message": "Uone"
+  },
+  "cc": {
+    "message": "计算平台"
+  },
+  "dwfe": {
+    "message": "DataWorks FE"
+  },
+  "yuque": {
+    "message": "语雀"
+  },
+  "zhihu": {
+    "message": "知乎"
+  },
+  "juejin": {
+    "message": "掘金"
+  },
+  "medium": {
+    "message": "medium"
+  },
+  "vscode": {
+    "message": "VS Code"
+  },
+  "vscodeExtension": {
+    "message": "VS Code 插件"
+  },
+  "github": {
+    "message": "GitHub"
+  },
+  "alibaba": {
+    "message": "阿里巴巴"
+  },
+  "aliyun": {
+    "message": "阿里云"
+  },
+  "aliyunDeveloperCommunity": {
+    "message": "阿里云开发者社区"
+  },
+  "bigData": {
+    "message": "大数据"
   }
 }
