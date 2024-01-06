@@ -10,7 +10,6 @@ const manifest = {
   version: packageJson.version,
   description: '__MSG_appDescription__',
   omnibox: { 'keyword': 'dw' },
-  permissions: [],
   default_locale: "zh_CN",
   background: {
     service_worker: 'src/pages/background/index.js',
