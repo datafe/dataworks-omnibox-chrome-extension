@@ -10,6 +10,10 @@ none
 
 ---------------------------------------------------------------------
 
+## V1.0.7
+### Fixed
+1. add some dgc links
+
 ## V1.0.6
 ### Fixed
 1. fixed aone query bugs
