@@ -9,6 +9,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 none
 
 ---------------------------------------------------------------------
+
+## V1.0.6
+### Fixed
+1. fixed aone query bugs
+
 ## V1.0.5
 ### Added
 1. add more links
