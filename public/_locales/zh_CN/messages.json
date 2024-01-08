@@ -71,6 +71,9 @@
   "innerPreLocal": {
     "message": "弹内预发本地"
   },
+  "innerLocal": {
+    "message": "弹内本地"
+  },
   "shanghai": {
     "message": "上海"
   },

@@ -71,6 +71,9 @@
   "innerPreLocal": {
     "message": "Inner Pre Local"
   },
+  "innerLocal": {
+    "message": "Inner Local"
+  },
   "shanghai": {
     "message": "Shanghai"
   },
