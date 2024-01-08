@@ -707,21 +707,29 @@ const products = [
 // });
 
 const intersection = (array1 = [], array2 = []) => {
-  return array1?.filter?.(value => array2?.includes?.(value)) || [];
+  const _array2 = array2?.map?.((obj) => obj?.toLowerCase ? obj?.toLowerCase?.() : obj);
+  return array1?.filter?.(value => {
+    const _value = value?.toLowerCase ? value?.toLowerCase?.() : value;
+    return _array2?.includes?.(_value);
+  }) || [];
 }
 
 const notIntersection = (array1 = [], array2 = []) => {
   const inter = intersection(array1, array2);
   let result = [];
 
-  if (inter?.length > 0) {
+  const _inter = inter?.map?.((obj) => obj?.toLowerCase ? obj?.toLowerCase?.() : obj);
+
+  if (_inter?.length > 0) {
     array1?.forEach?.(value => {
-      if (!inter?.includes?.(value)) {
+      const _value = value?.toLowerCase ? value?.toLowerCase?.() : value;
+      if (!_inter?.includes?.(_value)) {
         result?.push?.(value);
       }
     });
     array2?.forEach?.(value => {
-      if (!inter?.includes?.(value)) {
+      const _value = value?.toLowerCase ? value?.toLowerCase?.() : value;
+      if (!_inter?.includes?.(_value)) {
         result?.push?.(value);
       }
     });
