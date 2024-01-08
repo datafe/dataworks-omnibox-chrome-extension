@@ -140,7 +140,6 @@ const bizLinks = [
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-cn-zhangjiakou.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-cn-zhangjiakou.data.aliyun.com',
       [chrome.i18n.getMessage('dataAnalytics')]: 'https://da-cn-zhangjiakou.data.aliyun.com',
-      [chrome.i18n.getMessage('dgc')]: 'https://dgc-cn-zhangjiakou.data.aliyun.com',
       [chrome.i18n.getMessage('dqc')]: 'https://dqc-cn-zhangjiakou.data.aliyun.com',
       [chrome.i18n.getMessage('di')]: 'https://di-cn-zhangjiakou.data.aliyun.com',
       [chrome.i18n.getMessage('holoweb')]: 'https://holoweb-cn-zhangjiakou.data.aliyun.com',
@@ -413,6 +412,14 @@ const devBizLinks = [
     },
   },
   {
+    keywords: [chrome.i18n.getMessage('innerLocal'), 'inner', 'local', '弹内', '本地'],
+    display: chrome.i18n.getMessage('innerLocal'),
+    urlMap: {
+      [chrome.i18n.getMessage('dataService')]: 'https://local.prod-dataservice.alibaba-inc.com:8030',
+      [chrome.i18n.getMessage('dgc')]: 'https://local.prod-dgc.dw.alibaba-inc.com:8002',
+    },
+  },
+  {
     keywords: [chrome.i18n.getMessage('innerPreLocal'), 'inner', 'pre', 'local', '弹内', '预发', '本地'],
     display: chrome.i18n.getMessage('innerPreLocal'),
     urlMap: {
@@ -438,6 +445,15 @@ const devBizLinks = [
     },
   },
   {
+    keywords: [chrome.i18n.getMessage('shanghaiLocal'), 'shanghai', 'local', 'shang', 'local', '上海', '本地'],
+    display: chrome.i18n.getMessage('shanghaiLocal'),
+    urlMap: {
+      [chrome.i18n.getMessage('dataService')]: 'https://local.prod-ds-cn-shanghai.data.aliyun.com:8030',
+      [chrome.i18n.getMessage('dgc')]: 'https://local.prod-dgc-cn-shanghai.data.aliyun.com:8002',
+      [chrome.i18n.getMessage('tag')]: 'https://local.prod-dgc-cn-shanghai.data.aliyun.com:8000/tag',
+    },
+  },
+  {
     keywords: [chrome.i18n.getMessage('shanghaiPreLocal'), 'shanghai', 'pre', 'local', 'shang', '上海', '预发', '本地'],
     display: chrome.i18n.getMessage('shanghaiPreLocal'),
     urlMap: {
@@ -445,15 +461,6 @@ const devBizLinks = [
       [chrome.i18n.getMessage('dgc')]: 'https://local.pre-dgc-cn-shanghai.data.aliyun.com:8002',
       [chrome.i18n.getMessage('tag')]: 'https://local.pre-dgc-cn-shanghai.data.aliyun.com:8000/tag',
       [chrome.i18n.getMessage('holoweb')]: 'https://local.pre-holoweb.data.aliyun.com:8080',
-    },
-  },
-  {
-    keywords: [chrome.i18n.getMessage('shanghaiLocal'), 'shanghai', 'local', 'shang', 'local', '上海', '本地'],
-    display: chrome.i18n.getMessage('shanghaiLocal'),
-    urlMap: {
-      [chrome.i18n.getMessage('dataService')]: 'https://local.prod-ds-cn-shanghai.data.aliyun.com:8030',
-      [chrome.i18n.getMessage('dgc')]: 'https://local.prod-dgc-cn-shanghai.data.aliyun.com:8002',
-      [chrome.i18n.getMessage('tag')]: 'https://local.prod-dgc-cn-shanghai.data.aliyun.com:8000/tag',
     },
   },
   {
@@ -501,6 +508,13 @@ const devBizLinks = [
     },
   },
   {
+    keywords: [chrome.i18n.getMessage('oneboxPrivateEnvLink'), 'onebox', 'private'],
+    display: chrome.i18n.getMessage('oneboxPrivateEnvLink'),
+    urlMap: {
+      [chrome.i18n.getMessage('dataWorks')]: 'https://bear.onebox.alibaba-inc.com/#/private-cloud?product_line=dataworks',
+    },
+  },
+  {
     keywords: [chrome.i18n.getMessage('onebox'), 'onebox'],
     display: chrome.i18n.getMessage('onebox'),
     urlMap: {
@@ -514,13 +528,6 @@ const devBizLinks = [
       [chrome.i18n.getMessage('dgc')]: 'https://bear.onebox.alibaba-inc.com/#/projects/472',
       [chrome.i18n.getMessage('holoweb')]: 'https://bear.onebox.alibaba-inc.com/#/projects/293',
       [chrome.i18n.getMessage('commonHeader')]: 'https://bear.onebox.alibaba-inc.com/#/projects/41'
-    },
-  },
-  {
-    keywords: [chrome.i18n.getMessage('oneboxPrivateEnvLink'), 'onebox', 'private', 'dataworks'],
-    display: chrome.i18n.getMessage('oneboxPrivateEnvLink'),
-    urlMap: {
-      [chrome.i18n.getMessage('dataWorks')]: 'https://bear.onebox.alibaba-inc.com/#/private-cloud?product_line=dataworks',
     },
   },
   {
