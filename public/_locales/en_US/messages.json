@@ -14,6 +14,9 @@
   "console": {
     "message": "Console"
   },
+  "dwConsole": {
+    "message": "DataWorks Console"
+  },
   "hologresConsole": {
     "message": "Hologres Console"
   },
@@ -58,6 +61,15 @@
   },
   "di": {
     "message": "Data Integration"
+  },
+  "normandy": {
+    "message": "Normandy"
+  },
+  "quanxi": {
+    "message": "Quanxi"
+  },
+  "model": {
+    "message": "Data Model"
   },
   "tag": {
     "message": "Tag"
@@ -227,6 +239,12 @@
   "okr": {
     "message": "OKR"
   },
+  "bffConsole": {
+    "message": "BFF Console"
+  },
+  "bffPlatform": {
+    "message": "BFF Platform"
+  },
   "mock": {
     "message": "Mock"
   },
@@ -304,5 +322,11 @@
   },
   "bigData": {
     "message": "Big Data"
+  },
+  "prd": {
+    "message": "PRD"
+  },
+  "ued": {
+    "message": "UED"
   }
 }
