@@ -670,6 +670,13 @@ const relatedLinks = [
     },
   },
   {
+    keywords: [chrome.i18n.getMessage('ata'), 'ata'],
+    display: chrome.i18n.getMessage('ata'),
+    urlMap: {
+      [chrome.i18n.getMessage('dataWorks')]: 'https://ata.atatech.org/community/team/229',
+    },
+  },
+  {
     keywords: [chrome.i18n.getMessage('vscodeExtension'), 'vscode', 'extension'],
     display: chrome.i18n.getMessage('vscodeExtension'),
     urlMap: {
