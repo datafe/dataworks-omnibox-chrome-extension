@@ -302,6 +302,9 @@
   "medium": {
     "message": "medium"
   },
+  "ata": {
+    "message": "ATA"
+  },
   "vscode": {
     "message": "VS Code"
   },
