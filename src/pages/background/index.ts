@@ -53,7 +53,7 @@ const bizLinks = [
       [chrome.i18n.getMessage('dgc')]: 'https://dgc.dw.alibaba-inc.com',
       [chrome.i18n.getMessage('dqc')]: 'https://dqc.dw.alibaba-inc.com',
       [chrome.i18n.getMessage('di')]: 'https://di.dw.alibaba-inc.com',
-      [chrome.i18n.getMessage('model')]: 'https://model.dw.alibaba-inc.com',
+      [chrome.i18n.getMessage('model')]: 'https://kimball.alibaba-inc.com',
       [chrome.i18n.getMessage('holoweb')]: 'https://holoweb.dw.alibaba-inc.com',
     },
   },
@@ -61,7 +61,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('shanghai'), 'shanghai', 'shang', '上海'],
     display: chrome.i18n.getMessage('shanghai'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-cn-shanghai.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/cn-shanghai',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-cn-shanghai.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-cn-shanghai.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-cn-shanghai.data.aliyun.com',
@@ -77,7 +77,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('hangzhou'), 'hangzhou', 'hang', '杭州'],
     display: chrome.i18n.getMessage('hangzhou'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-cn-hangzhou.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/cn-hangzhou',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-cn-hangzhou.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-cn-hangzhou.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-cn-hangzhou.data.aliyun.com',
@@ -93,7 +93,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('shenzhen'), 'shenzhen', 'shen', '深圳'],
     display: chrome.i18n.getMessage('shenzhen'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-cn-shenzhen.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/cn-shenzhen',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-cn-shenzhen.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-cn-shenzhen.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-cn-shenzhen.data.aliyun.com',
@@ -109,7 +109,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('beijing'), 'beijing', 'bei', '北京'],
     display: chrome.i18n.getMessage('beijing'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-cn-beijing.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/cn-beijing',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-cn-beijing.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-cn-beijing.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-cn-beijing.data.aliyun.com',
@@ -125,7 +125,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('chengdu'), 'chengdu', 'cheng', '成都'],
     display: chrome.i18n.getMessage('chengdu'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-cn-chengdu.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/cn-chengdu',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-cn-chengdu.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-cn-chengdu.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-cn-chengdu.data.aliyun.com',
@@ -141,7 +141,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('zhangjiakou'), 'zhangjiakou', 'zhang', '张家口'],
     display: chrome.i18n.getMessage('zhangjiakou'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-cn-zhangjiakou.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/cn-zhangjiakou',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-cn-zhangjiakou.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-cn-zhangjiakou.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-cn-zhangjiakou.data.aliyun.com',
@@ -156,7 +156,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('wulanchabu'), 'wulanchabu', 'wulan', '乌兰察布'],
     display: chrome.i18n.getMessage('wulanchabu'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-cn-wulanchabu.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/cn-wulanchabu',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-cn-wulanchabu.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-cn-wulanchabu.data.aliyun.com',
       [chrome.i18n.getMessage('dataAnalytics')]: 'https://da-cn-wulanchabu.data.aliyun.com',
@@ -168,7 +168,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('hongkong'), 'hongkong', 'hong', 'hk', '香港'],
     display: chrome.i18n.getMessage('hongkong'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-cn-hongkong.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/cn-hongkong',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-cn-hongkong.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-cn-hongkong.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-cn-hongkong.data.aliyun.com',
@@ -184,7 +184,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('singapore'), 'singapore', 'sin', 'sg', 'ap-southeast-1', 'ap', 'southeast', 'south', 'east', '新加坡'],
     display: chrome.i18n.getMessage('singapore'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-ap-southeast-1.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-southeast-1',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-ap-southeast-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-ap-southeast-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-ap-southeast-1.data.aliyun.com',
@@ -200,7 +200,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('sydney'), 'sydney', 'syn', 'ap-southeast-2', 'ap', 'southeast', 'south', 'east', '悉尼'],
     display: chrome.i18n.getMessage('sydney'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-ap-southeast-2.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-southeast-2',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-ap-southeast-2.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-ap-southeast-2.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-ap-southeast-2.data.aliyun.com',
@@ -213,7 +213,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('kualaLumpur'), 'kualaLumpur', 'kuala', 'ap-southeast-3', 'ap', 'southeast', 'south', 'east', '吉隆坡'],
     display: chrome.i18n.getMessage('kualaLumpur'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-ap-southeast-3.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-southeast-3',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-ap-southeast-3.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-ap-southeast-3.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-ap-southeast-3.data.aliyun.com',
@@ -228,7 +228,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('jakarta'), 'jakarta', 'ap-southeast-5', 'ap', 'southeast', 'south', 'east', '雅加达'],
     display: chrome.i18n.getMessage('jakarta'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-ap-southeast-5.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-southeast-5',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-ap-southeast-5.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-ap-southeast-5.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-ap-southeast-5.data.aliyun.com',
@@ -244,7 +244,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('mumbai'), 'mumbai', 'ap-south-1', 'ap', 'south', 'east', '孟买'],
     display: chrome.i18n.getMessage('jakarta'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-ap-south-1.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-south-1',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-ap-south-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-ap-south-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-ap-south-1.data.aliyun.com',
@@ -258,7 +258,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('dubai'), 'dubai', 'me', 'east', '迪拜'],
     display: chrome.i18n.getMessage('dubai'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-me-east-1.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/me-east-1',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-me-east-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-me-east-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataAnalytics')]: 'https://da-me-east-1.data.aliyun.com',
@@ -270,7 +270,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('tokyo'), 'tokyo', 'ap-northeast-1', 'ap', 'northeast', 'north', 'east', 'japan', '东京'],
     display: chrome.i18n.getMessage('tokyo'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-ap-northeast-1.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-northeast-1',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-ap-northeast-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-ap-northeast-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-ap-northeast-1.data.aliyun.com',
@@ -284,7 +284,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('siliconValley'), 'silicon', 'us-west-1', 'us', 'west', '美西', '硅谷'],
     display: chrome.i18n.getMessage('siliconValley'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-us-west-1.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/us-west-1',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-us-west-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-us-west-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-us-west-1.data.aliyun.com',
@@ -300,7 +300,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('virginia'), 'virginia', 'us-east-1', 'us', 'east', '美东', '弗吉尼亚'],
     display: chrome.i18n.getMessage('virginia'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-us-east-1.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/us-east-1',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-us-east-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-us-east-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-us-east-1.data.aliyun.com',
@@ -314,7 +314,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('frankfurt'), 'frankfurt', 'eu-central-1', 'eu', 'central', 'germany', '德国', '法兰克福'],
     display: chrome.i18n.getMessage('frankfurt'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-eu-central-1.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/eu-central-1',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-eu-central-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-eu-central-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-eu-central-1.data.aliyun.com',
@@ -330,7 +330,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('london'), 'london', 'eu-west-1', 'eu', 'west', 'england', '英国', '伦敦'],
     display: chrome.i18n.getMessage('london'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-eu-west-1.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/eu-west-1',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-eu-west-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-eu-west-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-eu-west-1.data.aliyun.com',
@@ -344,7 +344,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('shanghaiFinance'), 'shanghaifinance', 'shanghaifin', 'cn-shanghai-finance-1', 'finance', 'shanghai', '上海金融云', '上海金'],
     display: chrome.i18n.getMessage('shanghaiFinance'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-cn-shanghai-finance-1.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/cn-shanghai-finance-1',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-cn-shanghai-finance-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-cn-shanghai-finance-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-cn-shanghai-finance-1.data.aliyun.com',
@@ -360,7 +360,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('shenzhenFinance'), 'shenzhenfinance', 'shenzhenfin', 'cn-shenzhen-finance-1', 'finance', 'shenzhen', '深圳金融云', '深圳金'],
     display: chrome.i18n.getMessage('shenzhenFinance'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-cn-shenzhen-finance-1.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/cn-shenzhen-finance-1',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-cn-shenzhen-finance-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-cn-shenzhen-finance-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-cn-shenzhen-finance-1.data.aliyun.com',
@@ -375,7 +375,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('beijingFinance'), 'beijingfinance', 'beijingfin', 'cn-beijing-finance-1', 'finance', 'beijing', '北京金融云', '北京金'],
     display: chrome.i18n.getMessage('beijingFinance'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-cn-beijing-finance-1.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/cn-beijing-finance-1',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-cn-beijing-finance-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-cn-beijing-finance-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataAnalytics')]: 'https://da-cn-beijing-finance-1.data.aliyun.com',
@@ -387,7 +387,7 @@ const bizLinks = [
     keywords: [chrome.i18n.getMessage('beijingGov'), 'beijinggov', '北京政务云', '北京政', 'gov', 'beijing', 'cn-north-2-gov-1'],
     display: chrome.i18n.getMessage('beijingGov'),
     urlMap: {
-      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://setting-cn-north-2-gov-1.data.aliyun.com',
+      [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/cn-north-2-gov-1',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-cn-north-2-gov-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataMap')]: 'https://dmc-cn-north-2-gov-1.data.aliyun.com',
       [chrome.i18n.getMessage('dataService')]: 'https://ds-cn-north-2-gov-1.data.aliyun.com',
@@ -424,6 +424,7 @@ const devBizLinks = [
       [chrome.i18n.getMessage('dgc')]: 'https://pre-dgc.dw.alibaba-inc.com',
       [chrome.i18n.getMessage('dqc')]: 'https://pre-dqc.dw.alibaba-inc.com',
       [chrome.i18n.getMessage('di')]: 'https://pre-di.dw.alibaba-inc.com',
+      [chrome.i18n.getMessage('model')]: 'https://pre-kimball.alibaba-inc.com',
       [chrome.i18n.getMessage('holoweb')]: 'https://pre-holoweb.dw.alibaba-inc.com',
     },
   },
@@ -457,6 +458,7 @@ const devBizLinks = [
       [chrome.i18n.getMessage('dgc')]: 'https://pre-dgc-cn-shanghai.data.aliyun.com',
       [chrome.i18n.getMessage('dqc')]: 'https://pre-dqc-cn-shanghai.data.aliyun.com',
       [chrome.i18n.getMessage('di')]: 'https://pre-di-cn-shanghai.data.aliyun.com',
+      [chrome.i18n.getMessage('model')]: 'https://pre-model-cn-shanghai.data.aliyun.com',
       [chrome.i18n.getMessage('holoweb')]: 'https://pre-holoweb-cn-shanghai.data.aliyun.com',
     },
   },
@@ -509,21 +511,6 @@ const devBizLinks = [
   },
   // 其他
   {
-    keywords: [chrome.i18n.getMessage('uiCodeInventory'), 'code', 'fe'],
-    display: chrome.i18n.getMessage('uiCodeInventory'),
-    urlMap: {
-      [chrome.i18n.getMessage('newDataStudioPlugins')]: 'https://code.alibaba-inc.com/alishu/vscode-datastudio-extensions',
-      [chrome.i18n.getMessage('dataStudio')]: 'https://code.alibaba-inc.com/alishu/datastudio',
-      [chrome.i18n.getMessage('dataService')]: 'https://code.alibaba-inc.com/alishu/only-dataservice',
-      [chrome.i18n.getMessage('dataMap')]: 'https://code.alibaba-inc.com/alishu/only-datamap',
-      [chrome.i18n.getMessage('dataAnalytics')]: 'https://code.alibaba-inc.com/alishu/only-excel',
-      [chrome.i18n.getMessage('di')]: 'https://code.alibaba-inc.com/alishu/xstudio-di',
-      [chrome.i18n.getMessage('dgc')]: 'https://code.alibaba-inc.com/alishu/data-governance-center',
-      [chrome.i18n.getMessage('holoweb')]: 'https://code.alibaba-inc.com/alishu/only-holoweb',
-      [chrome.i18n.getMessage('commonHeader')]: 'https://code.alibaba-inc.com/alishu/dataworks-common-header',
-    },
-  },
-  {
     keywords: [chrome.i18n.getMessage('onebox'), 'onebox'],
     display: chrome.i18n.getMessage('onebox'),
     urlMap: {
@@ -565,6 +552,7 @@ const devBizLinks = [
   },
 ];
 
+// 支持 common 定义
 const devLinks = [
   {
     keywords: ['dcd'],
@@ -602,6 +590,23 @@ const devLinks = [
     },
   },
   {
+    keywords: [chrome.i18n.getMessage('code'), 'code'],
+    display: chrome.i18n.getMessage('code'),
+    urlMap: {
+      common: 'https://code.alibaba-inc.com/__var1__',
+      [chrome.i18n.getMessage('newDataStudioPlugins')]: 'https://code.alibaba-inc.com/alishu/vscode-datastudio-extensions',
+      [chrome.i18n.getMessage('dataStudio')]: 'https://code.alibaba-inc.com/alishu/datastudio',
+      [chrome.i18n.getMessage('dataService')]: 'https://code.alibaba-inc.com/alishu/only-dataservice',
+      [chrome.i18n.getMessage('dataMap')]: 'https://code.alibaba-inc.com/alishu/only-datamap',
+      [chrome.i18n.getMessage('dataAnalytics')]: 'https://code.alibaba-inc.com/alishu/only-excel',
+      [chrome.i18n.getMessage('di')]: 'https://code.alibaba-inc.com/alishu/xstudio-di',
+      [chrome.i18n.getMessage('dgc')]: 'https://code.alibaba-inc.com/alishu/data-governance-center',
+      [chrome.i18n.getMessage('holoweb')]: 'https://code.alibaba-inc.com/alishu/only-holoweb',
+      [chrome.i18n.getMessage('commonHeader')]: 'https://code.alibaba-inc.com/alishu/dataworks-common-header',
+      [chrome.i18n.getMessage('codeHome')]: 'https://code.alibaba-inc.com',
+    },
+  },
+  {
     keywords: [chrome.i18n.getMessage('aone'), 'aone'],
     display: chrome.i18n.getMessage('aone'),
     urlMap: {
@@ -609,6 +614,33 @@ const devLinks = [
       [chrome.i18n.getMessage('dataService')]: 'https://project.aone.alibaba-inc.com/projects/786390',
       [chrome.i18n.getMessage('dgc')]: 'https://project.aone.alibaba-inc.com/projects/1095520',
       [chrome.i18n.getMessage('aoneHome')]: 'https://aone.alibaba-inc.com',
+    },
+  },
+  {
+    keywords: [chrome.i18n.getMessage('anpm'), 'anpm'],
+    display: chrome.i18n.getMessage('anpm'),
+    urlMap: {
+      common: 'https://anpm.alibaba-inc.com/package/__var1__',
+      [chrome.i18n.getMessage('anpmHome')]: 'https://anpm.alibaba-inc.com',
+    },
+  },
+  {
+    keywords: [chrome.i18n.getMessage('npm'), 'npm'],
+    display: chrome.i18n.getMessage('npm'),
+    urlMap: {
+      common: 'https://www.npmjs.com/package/__var1__',
+      [chrome.i18n.getMessage('npmHome')]: 'https://www.npmjs.com',
+    },
+  },
+  {
+    keywords: [chrome.i18n.getMessage('github'), 'github', 'git'],
+    display: chrome.i18n.getMessage('github'),
+    urlMap: {
+      common: 'https://github.com/__var1__',
+      [chrome.i18n.getMessage('alibaba')]: 'https://github.com/alibaba',
+      [chrome.i18n.getMessage('aliyun')]: 'https://github.com/aliyun',
+      [chrome.i18n.getMessage('dwfe')]: 'https://github.com/datafe',
+      [chrome.i18n.getMessage('githubHome')]: 'https://github.com',
     },
   },
   {
@@ -683,15 +715,6 @@ const relatedLinks = [
       [chrome.i18n.getMessage('dataWorks')]: 'https://marketplace.visualstudio.com/search?term=dataworks&target=VSCode&category=All%20categories&sortBy=Relevance',
     },
   },
-  {
-    keywords: [chrome.i18n.getMessage('github'), 'github', 'git'],
-    display: chrome.i18n.getMessage('github'),
-    urlMap: {
-      [chrome.i18n.getMessage('alibaba')]: 'https://github.com/alibaba',
-      [chrome.i18n.getMessage('aliyun')]: 'https://github.com/aliyun',
-      [chrome.i18n.getMessage('dwfe')]: 'https://github.com/datafe',
-    },
-  },
 ];
 
 const products = [
@@ -708,6 +731,10 @@ const products = [
   { keywords: [chrome.i18n.getMessage('df'), 'df', 'security'], content: chrome.i18n.getMessage('df'), description: chrome.i18n.getMessage('df') },
   { keywords: [chrome.i18n.getMessage('normandy'), 'nuo', 'nuomandi', 'normandy'], content: chrome.i18n.getMessage('normandy'), description: chrome.i18n.getMessage('normandy') },
   { keywords: [chrome.i18n.getMessage('quanxi'), 'quan', 'quanxi', '全息'], content: chrome.i18n.getMessage('quanxi'), description: chrome.i18n.getMessage('quanxi') },
+  { keywords: [chrome.i18n.getMessage('codeHome'), 'home'], content: chrome.i18n.getMessage('codeHome'), description: chrome.i18n.getMessage('codeHome') },
+  { keywords: [chrome.i18n.getMessage('anpmHome'), 'anpm', 'home'], content: chrome.i18n.getMessage('anpmHome'), description: chrome.i18n.getMessage('anpmHome') },
+  { keywords: [chrome.i18n.getMessage('npmHome'), 'npm', 'home'], content: chrome.i18n.getMessage('npmHome'), description: chrome.i18n.getMessage('npmHome') },
+  { keywords: [chrome.i18n.getMessage('githubHome'), 'github', 'home'], content: chrome.i18n.getMessage('githubHome'), description: chrome.i18n.getMessage('githubHome') },
   { keywords: [chrome.i18n.getMessage('aoneHome'), 'aone', 'home'], content: chrome.i18n.getMessage('aoneHome'), description: chrome.i18n.getMessage('aoneHome') },
   { keywords: [chrome.i18n.getMessage('mdsHome'), 'mds', 'home'], content: chrome.i18n.getMessage('mdsHome'), description: chrome.i18n.getMessage('mdsHome') },
   { keywords: [chrome.i18n.getMessage('aemHome'), 'aem', 'home'], content: chrome.i18n.getMessage('aemHome'), description: chrome.i18n.getMessage('aemHome') },
