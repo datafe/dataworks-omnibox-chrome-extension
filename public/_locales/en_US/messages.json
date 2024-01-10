@@ -215,6 +215,24 @@
   "dcdLink": {
     "message": "DCD Link"
   },
+  "code": {
+    "message": "Code"
+  },
+  "codeHome": {
+    "message": "Home"
+  },
+  "anpm": {
+    "message": "anpm"
+  },
+  "anpmHome": {
+    "message": "Home"
+  },
+  "npm": {
+    "message": "npm"
+  },
+  "npmHome": {
+    "message": "Home"
+  },
   "aone": {
     "message": "Aone"
   },
@@ -313,6 +331,9 @@
   },
   "github": {
     "message": "GitHub"
+  },
+  "githubHome": {
+    "message": "Home"
   },
   "alibaba": {
     "message": "Alibaba"
