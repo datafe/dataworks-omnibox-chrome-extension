@@ -197,7 +197,7 @@ const bizLinks = [
     },
   },
   {
-    keywords: [chrome.i18n.getMessage('sydney'), 'sydney', 'syn', 'ap-southeast-2', 'ap', 'southeast', 'south', 'east', '悉尼'],
+    keywords: [chrome.i18n.getMessage('sydney'), 'sydney', 'syn', 'ap-southeast-2', 'ap', 'southeast', 'south', 'east', '澳洲', '悉尼'],
     display: chrome.i18n.getMessage('sydney'),
     urlMap: {
       [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-southeast-2',
@@ -210,7 +210,7 @@ const bizLinks = [
     },
   },
   {
-    keywords: [chrome.i18n.getMessage('kualaLumpur'), 'kualaLumpur', 'kuala', 'ap-southeast-3', 'ap', 'southeast', 'south', 'east', '吉隆坡'],
+    keywords: [chrome.i18n.getMessage('kualaLumpur'), 'kualaLumpur', 'kuala', 'ap-southeast-3', 'ap', 'southeast', 'south', 'east', '马来', '吉隆坡'],
     display: chrome.i18n.getMessage('kualaLumpur'),
     urlMap: {
       [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-southeast-3',
@@ -225,7 +225,7 @@ const bizLinks = [
     },
   },
   {
-    keywords: [chrome.i18n.getMessage('jakarta'), 'jakarta', 'ap-southeast-5', 'ap', 'southeast', 'south', 'east', '雅加达'],
+    keywords: [chrome.i18n.getMessage('jakarta'), 'jakarta', 'ap-southeast-5', 'ap', 'southeast', 'south', 'east', '印尼', '雅加达'],
     display: chrome.i18n.getMessage('jakarta'),
     urlMap: {
       [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-southeast-5',
@@ -241,7 +241,7 @@ const bizLinks = [
     },
   },
   {
-    keywords: [chrome.i18n.getMessage('mumbai'), 'mumbai', 'ap-south-1', 'ap', 'south', 'east', '孟买'],
+    keywords: [chrome.i18n.getMessage('mumbai'), 'mumbai', 'ap-south-1', 'ap', 'south', 'east', '印度', '孟买'],
     display: chrome.i18n.getMessage('jakarta'),
     urlMap: {
       [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-south-1',
@@ -267,7 +267,7 @@ const bizLinks = [
     },
   },
   {
-    keywords: [chrome.i18n.getMessage('tokyo'), 'tokyo', 'ap-northeast-1', 'ap', 'northeast', 'north', 'east', 'japan', '东京'],
+    keywords: [chrome.i18n.getMessage('tokyo'), 'tokyo', 'ap-northeast-1', 'ap', 'northeast', 'north', 'east', 'japan', '日本', '东京'],
     display: chrome.i18n.getMessage('tokyo'),
     urlMap: {
       [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-northeast-1',
@@ -281,7 +281,7 @@ const bizLinks = [
     },
   },
   {
-    keywords: [chrome.i18n.getMessage('siliconValley'), 'silicon', 'us-west-1', 'us', 'west', '美西', '硅谷'],
+    keywords: [chrome.i18n.getMessage('siliconValley'), 'silicon', 'us-west-1', 'us', 'west', '美西', '美国', '硅谷'],
     display: chrome.i18n.getMessage('siliconValley'),
     urlMap: {
       [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/us-west-1',
@@ -297,7 +297,7 @@ const bizLinks = [
     },
   },
   {
-    keywords: [chrome.i18n.getMessage('virginia'), 'virginia', 'us-east-1', 'us', 'east', '美东', '弗吉尼亚'],
+    keywords: [chrome.i18n.getMessage('virginia'), 'virginia', 'us-east-1', 'us', 'east', '美东', '美国', '弗吉尼亚'],
     display: chrome.i18n.getMessage('virginia'),
     urlMap: {
       [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/us-east-1',
