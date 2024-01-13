@@ -197,7 +197,7 @@ const bizLinks = [
     },
   },
   {
-    keywords: [chrome.i18n.getMessage('sydney'), 'sydney', 'syn', 'ap-southeast-2', 'ap', 'southeast', 'south', 'east', '澳洲', '悉尼'],
+    keywords: [chrome.i18n.getMessage('sydney'), 'sydney', 'syn', 'ap-southeast-2', 'ap', 'southeast', 'south', 'east', 'aus', '澳洲', '悉尼'],
     display: chrome.i18n.getMessage('sydney'),
     urlMap: {
       [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-southeast-2',
@@ -210,7 +210,7 @@ const bizLinks = [
     },
   },
   {
-    keywords: [chrome.i18n.getMessage('kualaLumpur'), 'kualaLumpur', 'kuala', 'ap-southeast-3', 'ap', 'southeast', 'south', 'east', '马来', '吉隆坡'],
+    keywords: [chrome.i18n.getMessage('kualaLumpur'), 'kualaLumpur', 'kuala', 'ap-southeast-3', 'ap', 'southeast', 'south', 'east', 'mala', '马来', '吉隆坡'],
     display: chrome.i18n.getMessage('kualaLumpur'),
     urlMap: {
       [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-southeast-3',
@@ -225,7 +225,7 @@ const bizLinks = [
     },
   },
   {
-    keywords: [chrome.i18n.getMessage('jakarta'), 'jakarta', 'ap-southeast-5', 'ap', 'southeast', 'south', 'east', '印尼', '雅加达'],
+    keywords: [chrome.i18n.getMessage('jakarta'), 'jakarta', 'ap-southeast-5', 'ap', 'southeast', 'south', 'east', 'indo', '印尼', '雅加达'],
     display: chrome.i18n.getMessage('jakarta'),
     urlMap: {
       [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-southeast-5',
@@ -241,7 +241,7 @@ const bizLinks = [
     },
   },
   {
-    keywords: [chrome.i18n.getMessage('mumbai'), 'mumbai', 'ap-south-1', 'ap', 'south', 'east', '印度', '孟买'],
+    keywords: [chrome.i18n.getMessage('mumbai'), 'mumbai', 'ap-south-1', 'ap', 'south', 'east', 'india', '印度', '孟买'],
     display: chrome.i18n.getMessage('jakarta'),
     urlMap: {
       [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-south-1',
@@ -255,7 +255,7 @@ const bizLinks = [
     },
   },
   {
-    keywords: [chrome.i18n.getMessage('dubai'), 'dubai', 'me', 'east', '迪拜'],
+    keywords: [chrome.i18n.getMessage('dubai'), 'dubai', 'me', 'east', '阿联酋', '迪拜'],
     display: chrome.i18n.getMessage('dubai'),
     urlMap: {
       [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/me-east-1',
@@ -521,6 +521,7 @@ const devBizLinks = [
       [chrome.i18n.getMessage('dataAnalytics')]: 'https://bear.onebox.alibaba-inc.com/#/projects/177',
       [chrome.i18n.getMessage('di')]: 'https://bear.onebox.alibaba-inc.com/#/projects/204',
       [chrome.i18n.getMessage('dgc')]: 'https://bear.onebox.alibaba-inc.com/#/projects/472',
+      [chrome.i18n.getMessage('dqc')]: 'https://bear.onebox.alibaba-inc.com/#/projects/119',
       [chrome.i18n.getMessage('model')]: 'https://bear.onebox.alibaba-inc.com/#/projects/506',
       [chrome.i18n.getMessage('holoweb')]: 'https://bear.onebox.alibaba-inc.com/#/projects/293',
       [chrome.i18n.getMessage('commonHeader')]: 'https://bear.onebox.alibaba-inc.com/#/projects/41',
