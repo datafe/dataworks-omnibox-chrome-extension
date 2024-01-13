@@ -12,7 +12,7 @@
 
 After chrome extension is installed, you can type <strong>'dw + space'</strong> in chrome search input box and query region name and business module name to invoke link suggestions.
 
-安装完插件后，于浏览器输入框敲入<strong>dw并加上空白键</strong>即可呼起 DataWorks Omnibox，并输入地域名(如shanghai)或业务组件名(如数据开发)即会跳出链接。
+安装完插件后，于浏览器输入框敲入<strong>dw并加上空白键</strong>即可呼起阿里云 DataWorks 百宝箱，并输入地域名(如shanghai)或业务组件名(如数据开发)即会跳出链接。
 
 ## Demo
 
