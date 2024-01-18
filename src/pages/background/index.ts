@@ -242,7 +242,7 @@ const bizLinks = [
   },
   {
     keywords: [chrome.i18n.getMessage('mumbai'), 'mumbai', 'ap-south-1', 'ap', 'south', 'east', 'india', '印度', '孟买'],
-    display: chrome.i18n.getMessage('jakarta'),
+    display: chrome.i18n.getMessage('mumbai'),
     urlMap: {
       [chrome.i18n.getMessage('dataWorksSetting')]: 'https://sc.data.aliyun.com/ap-south-1',
       [chrome.i18n.getMessage('dataStudio')]: 'https://ide2-ap-south-1.data.aliyun.com',
