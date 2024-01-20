@@ -39,7 +39,7 @@ After chrome extension is installed, you can type <strong>'dw + space'</strong> 
 
 ## Intro <a name="intro"></a>
 
-This is a Chrome extension using data service APIs.
+This is a Chrome extension source code.
 
 ## Features <a name="features"></a>
 
