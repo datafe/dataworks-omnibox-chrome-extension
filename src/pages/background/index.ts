@@ -485,7 +485,7 @@ const devBizLinks = [
     keywords: [chrome.i18n.getMessage('hangzhouPre'), 'hangzhou', 'pre', 'hang', '杭州', '预发'],
     display: chrome.i18n.getMessage('hangzhouPre'),
     urlMap: {
-      [chrome.i18n.getMessage('dataService')]: 'https://pre-ds-vpc-cn-hangzhou.data.aliyun.com',
+      [chrome.i18n.getMessage('dataService')]: 'https://pre-vpc-ds-cn-hangzhou.data.aliyun.com',
     },
   },
   {
@@ -499,7 +499,7 @@ const devBizLinks = [
     keywords: [chrome.i18n.getMessage('beijingPre'), 'beijing', 'bei', 'pre', '北京', '预发'],
     display: chrome.i18n.getMessage('beijingPre'),
     urlMap: {
-      [chrome.i18n.getMessage('dataService')]: 'https://pre-ds-vpc-cn-beijing.data.aliyun.com',
+      [chrome.i18n.getMessage('dataService')]: 'https://pre-vpc-ds-cn-beijing.data.aliyun.com',
     },
   },
   {
