@@ -62,6 +62,9 @@
   "di": {
     "message": "数据集成"
   },
+  "openPlatform": {
+    "message": "开放平台"
+  },
   "model": {
     "message": "数据建模"
   },
@@ -79,6 +82,12 @@
   },
   "innerLocal": {
     "message": "弹内本地"
+  },
+  "publicLocal": {
+    "message": "弹外本地"
+  },
+  "publicPre": {
+    "message": "弹外预发"
   },
   "shanghai": {
     "message": "上海"
@@ -202,6 +211,9 @@
   },
   "openApiLink": {
     "message": "开放接口链接"
+  },
+  "openPlatformLink": {
+    "message": "开放平台公有云"
   },
   "oneboxPrivateEnvLink": {
     "message": "Onebox 专有云部署"
