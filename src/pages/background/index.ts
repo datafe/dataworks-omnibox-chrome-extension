@@ -33,10 +33,17 @@ const bizLinks = [
     },
   },
   {
-    keywords: [chrome.i18n.getMessage('openAPI'), 'open', 'api'],
+    keywords: [chrome.i18n.getMessage('openAPI'), 'openapi', 'open'],
     display: chrome.i18n.getMessage('openApiLink'),
     urlMap: {
       [chrome.i18n.getMessage('dataWorks')]: 'https://next.api.aliyun.com/api/dataworks-public',
+    },
+  },
+  {
+    keywords: [chrome.i18n.getMessage('openPlatform'), 'openplatform', 'open'],
+    display: chrome.i18n.getMessage('openPlatform'),
+    urlMap: {
+      [chrome.i18n.getMessage('openPlatform')]: 'https://openplatform.data.aliyun.com',
     },
   },
   // region site
@@ -54,6 +61,7 @@ const bizLinks = [
       [chrome.i18n.getMessage('dqc')]: 'https://dqc.dw.alibaba-inc.com',
       [chrome.i18n.getMessage('di')]: 'https://di.dw.alibaba-inc.com',
       [chrome.i18n.getMessage('model')]: 'https://kimball.alibaba-inc.com',
+      [chrome.i18n.getMessage('openPlatform')]: 'https://open-inner.dw.alibaba-inc.com',
       [chrome.i18n.getMessage('holoweb')]: 'https://holoweb.dw.alibaba-inc.com',
     },
   },
@@ -424,8 +432,23 @@ const devBizLinks = [
       [chrome.i18n.getMessage('dgc')]: 'https://pre-dgc.dw.alibaba-inc.com',
       [chrome.i18n.getMessage('dqc')]: 'https://pre-dqc.dw.alibaba-inc.com',
       [chrome.i18n.getMessage('di')]: 'https://pre-di.dw.alibaba-inc.com',
+      [chrome.i18n.getMessage('openPlatform')]: 'https://pre-open-inner.dw.alibaba-inc.com',
       [chrome.i18n.getMessage('model')]: 'https://pre-kimball.alibaba-inc.com',
       [chrome.i18n.getMessage('holoweb')]: 'https://pre-holoweb.dw.alibaba-inc.com',
+    },
+  },
+  {
+    keywords: [chrome.i18n.getMessage('publicLocal'), 'public', 'local', '弹外', '本地'],
+    display: chrome.i18n.getMessage('publicLocal'),
+    urlMap: {
+      [chrome.i18n.getMessage('openPlatform')]: 'https://pre-openplatform.data.aliyun.com:8080',
+    },
+  },
+  {
+    keywords: [chrome.i18n.getMessage('publicPre'), 'public', 'pre', '弹外', '预发'],
+    display: chrome.i18n.getMessage('publicPre'),
+    urlMap: {
+      [chrome.i18n.getMessage('openPlatform')]: 'https://pre-openplatform.data.aliyun.com',
     },
   },
   {
@@ -434,6 +457,7 @@ const devBizLinks = [
     urlMap: {
       [chrome.i18n.getMessage('dataService')]: 'https://local.prod-dataservice.alibaba-inc.com:8030',
       [chrome.i18n.getMessage('dgc')]: 'https://local.prod-dgc.dw.alibaba-inc.com:8002',
+      [chrome.i18n.getMessage('openPlatform')]: 'https://pre-open-inner.dw.alibaba-inc.com:8080',
     },
   },
   {
@@ -766,6 +790,7 @@ const products = [
   { keywords: [chrome.i18n.getMessage('dgc'), 'dgc', '治理'], content: chrome.i18n.getMessage('dgc'), description: chrome.i18n.getMessage('dgc') },
   { keywords: [chrome.i18n.getMessage('tag'), 'tag', '标签'], content: chrome.i18n.getMessage('tag'), description: chrome.i18n.getMessage('tag') },
   { keywords: [chrome.i18n.getMessage('di'), 'di', 'di2', 'integrate', '集成'], content: chrome.i18n.getMessage('di'), description: chrome.i18n.getMessage('di') },
+  { keywords: [chrome.i18n.getMessage('openPlatform'), 'open', 'platform', '开放平台'], content: chrome.i18n.getMessage('openPlatform'), description: chrome.i18n.getMessage('openPlatform') },
   { keywords: [chrome.i18n.getMessage('model'), 'model', 'kimball', '建模'], content: chrome.i18n.getMessage('model'), description: chrome.i18n.getMessage('model') },
   { keywords: [chrome.i18n.getMessage('bffConsole'), 'bff', 'nrtp', '哈勃'], content: chrome.i18n.getMessage('bffConsole'), description: chrome.i18n.getMessage('bffConsole') },
   { keywords: [chrome.i18n.getMessage('bffPlatform'), 'bff', 'platform'], content: chrome.i18n.getMessage('bffPlatform'), description: chrome.i18n.getMessage('bffPlatform') },
