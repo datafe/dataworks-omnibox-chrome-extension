@@ -10,6 +10,10 @@ none
 
 ---------------------------------------------------------------------
 
+## V1.0.16
+### Updated
+1. update open platform url
+
 ## V1.0.15
 ### Added
 1. added open platform url
