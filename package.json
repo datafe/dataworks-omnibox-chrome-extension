@@ -1,13 +1,14 @@
 {
   "name": "chrome-extension-dataworks-omnibox",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "chrome extension dataworks omnibox",
   "keywords": [
     "Big Data",
     "DataWorks",
     "Omnibox",
     "Aliyun",
-    "Alibaba"
+    "Alibaba",
+    "Cloud"
   ],
   "author": "Samuel Hsin <caramels@gmail.com> (https://github.com/datafe)",
   "license": "Apache-2.0",
