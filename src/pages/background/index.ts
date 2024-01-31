@@ -441,7 +441,7 @@ const devBizLinks = [
     keywords: [chrome.i18n.getMessage('publicLocal'), 'public', 'local', '弹外', '本地'],
     display: chrome.i18n.getMessage('publicLocal'),
     urlMap: {
-      [chrome.i18n.getMessage('openPlatform')]: 'https://pre-openplatform.data.aliyun.com:8080',
+      [chrome.i18n.getMessage('openPlatform')]: 'https://pre-openplatform.data.aliyun.com:8085',
     },
   },
   {
@@ -457,7 +457,7 @@ const devBizLinks = [
     urlMap: {
       [chrome.i18n.getMessage('dataService')]: 'https://local.prod-dataservice.alibaba-inc.com:8030',
       [chrome.i18n.getMessage('dgc')]: 'https://local.prod-dgc.dw.alibaba-inc.com:8002',
-      [chrome.i18n.getMessage('openPlatform')]: 'https://pre-open-inner.dw.alibaba-inc.com:8080',
+      [chrome.i18n.getMessage('openPlatform')]: 'https://pre-open-inner.dw.alibaba-inc.com:8085',
     },
   },
   {
